@@ -18,7 +18,7 @@ Some projects use local datasets, while others retrieve data directly from exter
 
 ## Projects
 
-### 📈 Adventure Works
+### Adventure Works
 
 Business Intelligence dashboard built using the Adventure Works database.
 
@@ -34,7 +34,7 @@ The project demonstrates a real-world BI workflow. Data was first prepared in **
 
 ---
 
-### 🌦 Weather Data Analysis
+### Weather Data Analysis
 
 Interactive dashboard based on current weather data provided by the **Institute of Meteorology and Water Management (IMGW)**.
 
@@ -49,7 +49,7 @@ Data is retrieved directly from the public REST API in JSON format using Power Q
 
 ---
 
-### 🚗 Electric Cars Analysis
+### Electric Cars Analysis
 
 Dashboard presenting analysis of electric vehicle data.
 
@@ -63,7 +63,7 @@ The project explores market trends and vehicle characteristics using interactive
 
 ---
 
-### 💰 Sales Report
+### Sales Report
 
 Interactive sales dashboard designed to monitor key business indicators.
 
@@ -143,7 +143,7 @@ W projektach wykorzystuję zarówno lokalne źródła danych, jak i połączenia
 
 ## Projekty
 
-### 📈 Adventure Works
+### Adventure Works
 
 Dashboard analityczny oparty na bazie Adventure Works.
 
@@ -160,7 +160,7 @@ W projekcie przygotowałam własne widoki w **Microsoft SQL Server**, zawierają
 
 ---
 
-### 🌦 Analiza danych pogodowych
+### Analiza danych pogodowych
 
 Interaktywny raport wykorzystujący aktualne dane pogodowe udostępniane przez **IMGW**.
 
@@ -175,7 +175,7 @@ Dane pobierane są bezpośrednio z publicznego API w formacie JSON przy użyciu 
 
 ---
 
-### 🚗 Analiza samochodów elektrycznych
+### Analiza samochodów elektrycznych
 
 Dashboard prezentujący analizę danych dotyczących samochodów elektrycznych oraz trendów rynkowych.
 
@@ -187,7 +187,7 @@ Dashboard prezentujący analizę danych dotyczących samochodów elektrycznych o
 
 ---
 
-### 💰 Raport sprzedaży
+### Raport sprzedaży
 
 Dashboard biznesowy przedstawiający analizę sprzedaży oraz najważniejsze wskaźniki KPI.
 
